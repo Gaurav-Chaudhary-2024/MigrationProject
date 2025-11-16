@@ -3,11 +3,29 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@react-spring/web": "^10.0.3",
+    "@tippyjs/react": "^4.2.6",
+    "@use-gesture/react": "^10.3.1",
+    "file-saver": "^2.0.5",
+    "framer-motion": "^12.23.24",
+    "html-to-image": "^1.11.13",
+    "jszip": "^3.10.1",
+    "katex": "^0.16.25",
+    "lodash": "^4.17.21",
     "lucide-react": "^0.263.1",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
-    "recharts": "^2.10.0"
+    "popmotion": "^11.0.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-intersection-observer": "^10.0.0",
+    "react-katex": "^3.1.0",
+    "react-scripts": "^5.0.1",
+    "react-spring": "^10.0.3",
+    "react-tooltip": "^5.30.0",
+    "react-use": "^17.6.0",
+    "react-window": "^2.2.3",
+    "recharts": "^2.15.4",
+    "seedrandom": "^3.0.5",
+    "tippy.js": "^6.3.7"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -33,8 +51,10 @@
     ]
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.16",
-    "postcss": "^8.4.31",
-    "tailwindcss": "^3.3.0"
+    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/react": "^16.3.0",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.18"
   }
 }

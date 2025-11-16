@@ -1,7 +1,23 @@
 {
   "devDependencies": {
+    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/react": "^16.3.0",
     "autoprefixer": "^10.4.21",
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.16"
+  },
+  "dependencies": {
+    "@tippyjs/react": "^4.2.6",
+    "framer-motion": "^12.23.24",
+    "katex": "^0.16.25",
+    "lucide-react": "^0.552.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-katex": "^3.1.0",
+    "react-scripts": "^0.0.0",
+    "react-window": "^2.2.2",
+    "recharts": "^3.3.0",
+    "seedrandom": "^3.0.5",
+    "tippy.js": "^6.3.7"
   }
 }
