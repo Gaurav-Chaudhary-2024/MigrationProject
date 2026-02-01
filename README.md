@@ -95,7 +95,7 @@ These methods enable the system to move beyond simple interpolation and generate
 
 This project was developed as a **team effort**, with clearly defined roles:
 
-- **[Name – Person 1]**  
+- **Gaurav Chaudhary**  
   - Project Lead & Primary Developer  
   - Designed overall system architecture  
   - Implemented the core mathematical prediction model  
@@ -104,12 +104,12 @@ This project was developed as a **team effort**, with clearly defined roles:
   - Integrated graphical output and equation display cards  
   - Managed repository and final integration  
 
-- **[Name – Person 2]**  
+- **khevikagaur**  
   - Developed the initial prototype  
   - Built the first prediction model  
   - Implemented single-year data input and forecasting logic  
 
-- **[Name – Person 3]**  
+- **Shubhra469**  
   - Designed and implemented the complete user interface  
   - Handled layout, styling, and responsiveness  
   - Fixed last-minute variable issues and version mismatches  
